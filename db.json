@@ -1,0 +1,51 @@
+[
+    {
+      "lotNumber": "5729",
+      "product": "Oranges",
+      "farm": "Fresno Family Orchards",
+      "aboutFarm": "We are a small family farm that grows organic oranges. We have been farming for over 100 years and are committed to sustainable farming practices. We are certified organic by the California Certified Organic Farmers (CCOF).",
+      "location": "Fresno, California, USA",
+      "photo": "./public/oranges.jpg",
+      "growingProcess": "Everything starts with the soil, which we keep healthy with compost and cover crops. We use beneficial insects and other biological controls to keep pests in check. We also use organic fertilizers and foliar sprays to keep our trees healthy. We use a lot of water, but we are working to reduce our water use through better irrigation practices and soil management.",
+      "datePicked": "January 1st, 2024",
+      "dateShipped": "January 2nd, 2024",
+      "dateReceived": "January 5th, 2024"
+    },
+    {
+      "lotNumber": "5730",
+      "product": "Blueberries",
+      "farm": "Blueberries by God the Creator",
+      "aboutFarm": "We are a small family farm that grows better than organic blueberries. We grow our blueberries the way God would have intended - no pesticides, no herbicides, no fertilizers. We are not certified organic, but we are better than organic. We are located in the beautiful piedmont area of North Carolina.",
+      "location": "Climax, North Carolina, USA",
+      "photo": "https://imgs.search.brave.com/Ygt468cWra9sVQ5zxb5qNosl6j7OYcA1TskrUOk8TNU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNjY1/MDI4OTM0L3Bob3Rv/L2JsdWViZXJyaWVz/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1ydF9jdDE3OUs4/bWU2U2lNYkZlMkZ3/d3RUalJGSUZXRkpr/QVNiNkhXXzdBPQ",
+      "growingProcess": "We make every effort to keep our blueberries as natural as possible. We believe the less interference we can have in the growing process, the better. Our main involement comes from preparing the soil and planting the bushes. We do not use any pesticides, herbicides, or fertilizers. We do not irrigate our blueberries, so we are at the mercy of the weather. We believe this is the best way to grow blueberries. We are not certified organic, but we are better than organic.",
+      "datePicked": "June 5th, 2023",
+      "dateShipped": "June 6th, 2023",
+      "dateReceived": "June 10th, 2023"
+    },
+    {
+      "lotNumber": "5731",
+      "product": "Oranges",
+      "farm": "Fresno Family Orchards",
+      "aboutFarm": "We are a small family farm that grows organic oranges. We have been farming for over 100 years and are committed to sustainable farming practices. We are certified organic by the California Certified Organic Farmers (CCOF).",
+      "location": "Fresno, California, USA",
+      "photo": "./public/oranges.jpg",
+      "growingProcess": "Everything starts with the soil, which we keep healthy with compost and cover crops. We use beneficial insects and other biological controls to keep pests in check. We also use organic fertilizers and foliar sprays to keep our trees healthy. We use a lot of water, but we are working to reduce our water use through better irrigation practices and soil management.",
+      "datePicked": "January 1st, 2024",
+      "dateShipped": "January 2nd, 2024",
+      "dateReceived": "January 5th, 2024"
+    },
+    {
+      "lotNumber": "5732",
+      "product": "Oranges",
+      "farm": "Fresno Family Orchards",
+      "aboutFarm": "We are a small family farm that grows organic oranges. We have been farming for over 100 years and are committed to sustainable farming practices. We are certified organic by the California Certified Organic Farmers (CCOF).",
+      "location": "Fresno, California, USA",
+      "photo": "./public/oranges.jpg",
+      "growingProcess": "Everything starts with the soil, which we keep healthy with compost and cover crops. We use beneficial insects and other biological controls to keep pests in check. We also use organic fertilizers and foliar sprays to keep our trees healthy. We use a lot of water, but we are working to reduce our water use through better irrigation practices and soil management.",
+      "datePicked": "January 1st, 2024",
+      "dateShipped": "January 2nd, 2024",
+      "dateReceived": "January 5th, 2024"
+    }
+  ]
+  
